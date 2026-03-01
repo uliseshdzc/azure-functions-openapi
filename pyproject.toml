@@ -30,7 +30,7 @@ dev = [
     "types-PyYAML",
     "pytest-cov",
 
-    "bandit==1.9.3"          # Matches pre-commit rev
+    "bandit==1.9.4"          # Matches pre-commit rev
 ]
 docs = [
     "mkdocs",
